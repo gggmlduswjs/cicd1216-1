@@ -18,7 +18,7 @@ public class HomeController {
     }
 
     @GetMapping("/hicicd3")
-    public String hicicd4(){
+    public String hicicd3(){
         return "새로운 개발 ccid 적용";
     }
 }
